@@ -1,0 +1,84 @@
+.first{
+   color: #333;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background-color:darkkhaki
+}
+.Homepage{
+   color: #333;
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-weight: bold;
+
+}
+.container {
+    display: flex;
+    height: 100%;
+}
+
+.sidebar {
+    flex: 0 0 200px;
+    background-color:palegoldenrod;
+    padding: 20px;
+    box-sizing: border-box;
+    height: 800px;
+}
+
+.content {
+    flex: 1;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 30px;
+}
+
+nav ul li {
+    margin-bottom: 10px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #333;
+}
+
+nav ul li a:hover {
+    color: #666;
+}
+
+.art{
+    width: 40%;
+    height: 40%;
+    
+};
+
+#seuss{
+    width: 15%;
+    height: 40%;
+}
+
+#caravaggio{
+    width: 35%;
+    height: 35%;
+}
+
+#gericault{
+    width: 35%;
+    height: 30%;
+}
+#caravaggio3{
+     width: 445px;
+    height: 259px;
+}
+
+.title{
+    color: #333;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-size: 30px;
+}
