@@ -14,7 +14,7 @@ You use git clone to be able to download the documents in the GitHub
 Git(via the app or website)
 
 ### Installation instruction
-
+```
 git clone https://github.com/sirnoel7/project-phase-1.git
 
 ```
