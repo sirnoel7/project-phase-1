@@ -7,24 +7,6 @@ document.addEventListener('DOMContentLoaded', function () {
     const artworkGallery = document.getElementById('artworkGallery');
     const searchInput = document.getElementById('searchInput');
 
-    // these are event listeners for the navigation links on the side bar
-    galleryLink.addEventListener('click', e => {
-        e.preventDefault();
-    //this prevents the default function from occurring which is to redirect to a separate html file known as homepage.
-     displayHomePage();
-   // this calls for the displayhomepage function to be done
-    });
-
-    aboutLink.addEventListener('click', e => {
-        e.preventDefault();
-        // this is for the about page
-    });
-
-    contactLink.addEventListener('click', e => {
-        e.preventDefault();
-        // this is for the contact page
-    });
-
     // this array stores fetched artworks
     let artworksData = [];
 

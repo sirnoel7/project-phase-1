@@ -12,7 +12,7 @@ body, html {
 
 .Homepage {
     color: #333;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family:Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
 }
 
@@ -20,6 +20,8 @@ body, html {
     display: flex;
     height: 100%;
 }
+
+
 
 .sidebar {
     flex: 0 0 200px;
@@ -140,4 +142,24 @@ nav ul li a:hover {
 #caravaggio7 {
     width: 445px;
     height: 280px;
+}
+
+#about{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: #333;
+    font-weight: bold;
+
+}
+
+#contact{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: #333;
+    font-weight: bold;
+}
+
+#gallery{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: #333;
+    font-weight: bold;
+
 }
