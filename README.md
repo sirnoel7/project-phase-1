@@ -20,7 +20,7 @@ git clone https://github.com/sirnoel7/project-phase-1.git
 ```
 
 # Live Link
-[Git]([gh-pages link](https://github.com/sirnoel7/project-phase-1)).
+[Git]([gh-pages link]([https://github.com/sirnoel7/project-phase-1](https://sirnoel7.github.io/project-phase-1/))).
 
 ## Technologies used
 HTML
