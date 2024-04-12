@@ -5,7 +5,7 @@
 #### By *Noel 'The One' Nyakundi*
 
 ## Description
-This is a website that acts as an online art exhibit. It showcases and promotes artwprks of various artists both mainstream and underground. It shows info on the inspiration and reasons and themes present in the art pieces
+This is a website that acts as an online art exhibit. It showcases and promotes artworks of various artists both mainstream and underground. It shows info on the inspiration and reasons and themes present in the art pieces
 
 ## Installation
 You use git clone to be able to download the documents in the GitHub
