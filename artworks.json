@@ -1,27 +1,54 @@
 [
-    {
-      "title": "The Cardsharps",
+  {
+    "title": "The Cardsharps",
+    "artist": "Caravaggio",
+    "description": "The work represents an important milestone for Caravaggio.[1] He painted it when he was attempting an independent career after leaving the workshop of the Cavaliere Giuseppe Cesari d'Arpino, for whom he had been painting 'flowers and fruit', finishing the details for the Cavaliere's mass-produced (and massive) output. Caravaggio left Arpino's workshop in January 1594 and began selling works through the dealer Costantino, with the assistance of Prospero Orsi, an established painter of Mannerist grotesques (masks, monsters, etc.). Orsi introduced Caravaggio to his extensive network of contacts in the world of collectors and patrons.",
+    "image": "https://cdn.britannica.com/05/186605-050-2063F832/oil-Cardsharps-canvas-Caravaggio-Fort-Worth-Texas.jpg"
+  },
+  {
+    "title": "The Call of St Matthew",
+    "artist": "Caravaggio",
+    "description": "Caravaggio's 'Calling of Saint Matthew' captures a powerful moment of spiritual awakening. Set in a gritty, realistic environment, Christ points to Matthew, a tax collector, inviting him to follow. The painting highlights the divine entering everyday life, emphasizing the transformative power of faith and making spirituality accessible to all.",
+    "image": "https://www.italyperfect.com/blog/wp-content/uploads/2014/07/Caravaggio-Michelangelo_Merisi_da-The_Calling_of_Saint_Matthew.jpg"
+  },
+  {
+    "title": "Horse attacked by lion",
+    "artist": "Thoedore Gericault",
+    "description": "The subject of a horse being attacked by a lion was one that held a particular fascination for Géricault, as it had for George Stubbs before him. Géricault would have known of Stubbs' paintings of lions and horses in combat even before his stay in England in 1820-1821, as prints of these subjects were available in France and he copied some of them. Géricault produced several pencil drawings and watercolours of lions attacking horses1, culminating in one of his most dramatic depictions of the theme; a drawing of A Horse Attacked by a Lion in the Museum Boijmans-van Beuningen in Rotterdam. He also produced two lithographs of the subject." ,
+    "image" : "https://artincontext.org/wp-content/uploads/2022/12/Theodore-Gericault.jpg"
+  },
+  {
+      "title": "Venice Under Moonlight",
       "artist": "Caravaggio",
-      "description": "The work represents an important milestone for Caravaggio.[1] He painted it when he was attempting an independent career after leaving the workshop of the Cavaliere Giuseppe Cesari d'Arpino, for whom he had been painting 'flowers and fruit', finishing the details for the Cavaliere's mass-produced (and massive) output. Caravaggio left Arpino's workshop in January 1594 and began selling works through the dealer Costantino, with the assistance of Prospero Orsi, an established painter of Mannerist grotesques (masks, monsters, etc.). Orsi introduced Caravaggio to his extensive network of contacts in the world of collectors and patrons.",
-      "image": "https://cdn.britannica.com/05/186605-050-2063F832/oil-Cardsharps-canvas-Caravaggio-Fort-Worth-Texas.jpg"
-    },
-    {
-      "title": "The Call of St Matthew",
-      "artist": "Caravaggio",
-      "description": "Caravaggio's 'Calling of Saint Matthew' captures a powerful moment of spiritual awakening. Set in a gritty, realistic environment, Christ points to Matthew, a tax collector, inviting him to follow. The painting highlights the divine entering everyday life, emphasizing the transformative power of faith and making spirituality accessible to all.",
-      "image": "https://www.italyperfect.com/blog/wp-content/uploads/2014/07/Caravaggio-Michelangelo_Merisi_da-The_Calling_of_Saint_Matthew.jpg"
-    },
-    {
-      "title": "Horse attacked by lion",
-      "artist": "Thoedore Gericault",
-      "description": "Description of the artwork 3.",
-      "image": "https://artincontext.org/wp-content/uploads/2022/12/Theodore-Gericault.jpg"
-    },
-    {
-        "title": "Venice Under Moonlight",
-        "artist": "Caravaggio",
-        "description": "Description of the artwork 4.",
-        "image": "https://m.media-amazon.com/images/I/917UGI3-IuL._AC_UF894,1000_QL80_.jpg"
-    }
-  ]
-  
+      "description": "His use of chiaroscuro ( kee -yah- roh - skoo - roh ), or the strong contrast between light and dark, created a dramatic and three-dimensional quality in his paintings. This heightened the emotional impact of his works, making them feel immediate and relatable",
+      "image": "https://m.media-amazon.com/images/I/917UGI3-IuL._AC_UF894,1000_QL80_.jpg"
+  },
+  {
+    "title": "Landscape at twilight",
+    "artist": "Vincent Van Gogh",
+    "description": "Van Gogh made this evening landscape in the fields near Auvers, with a view of the local castle. He rendered the tangled black branches of the pear trees with a flurry of black brushstrokes. This reinforces the contrast between the dark trees and the luminous yellow sky.                   The painting seems somewhat like a panorama because of its wide format. It is one metre wide and 50 centimetres high. Starting in June 1890, Van Gogh made a total of thirteen works with these dimensions. All but one are landscapes. He cut the canvases himself from a large roll.",
+    "image": "https://cdn.sanity.io/images/cxgd3urn/production/794c1736fe78c1e598963217bdc4bd68821a3a24-800x394.jpg?w=1200&h=591&fit=crop&auto=format"
+  },
+  {
+    "title": "Lady with an ermine",
+    "artist": "Leonardo da Vinci",
+    "description": "Leonardo portrays the young woman as her head momentarily turns away from the viewer. It gives life to the portrayal of Cecilia Gallerani, whose head and hair are styled in the latest Milanese fashion. The master has captured the quizzical look of the woman’s pet ermine as it swivels its head in unison with its owner. Leonardo has painted the ermine’s head, body and feet with precise attention to detail. A text at the top of the painting to the left reads “LA BELLE FERONIERE LEONARD DA VINCI”, which has led to confusion between this painting and the portrait of Lucrezia Crivelli, another of Ludovico Sforza’s mistress (Ormiston, 2011).",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/15ca6b96-80b2-4887-9253-b0eb38160f16/dfsbpis-b31175f2-ce2b-4034-98a0-97ca60318e22.jpg/v1/fill/w_1280,h_1686,q_75,strp/lady_with_ermine_by_leonardo_by_luigipetro_dfsbpis-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE1Y2E2Yjk2LTgwYjItNDg4Ny05MjUzLWIwZWIzODE2MGYxNlwvZGZzYnBpcy1iMzExNzVmMi1jZTJiLTQwMzQtOThhMC05N2NhNjAzMThlMjIuanBnIiwiaGVpZ2h0IjoiPD0xNjg2Iiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uud2F0ZXJtYXJrIl0sIndtayI6eyJwYXRoIjoiXC93bVwvMTVjYTZiOTYtODBiMi00ODg3LTkyNTMtYjBlYjM4MTYwZjE2XC9sdWlnaXBldHJvLTQucG5nIiwib3BhY2l0eSI6OTUsInByb3BvcnRpb25zIjowLjQ1LCJncmF2aXR5IjoiY2VudGVyIn19.L-cojtALOc4ofRD9mDfUe0xzKjrUjCqVRIZzwDFyyHo"
+  },
+  {
+    "title": "Iron Mill in the Hague",
+    "artist": "Vincent Van Gogh",
+    "description": "The Iron Mill in The Hague is one of the most emblematic works of the famous Dutch painter Vincent Van Gogh. This painting, made in 1882, is a perfect example of the artistic style of Post-Impressionism, which is characterized by the use of bright colors and the representation of reality in a subjective way.",
+    "image": "https://www.vangoghstudio.com/Files/6/102000/102147/CategoryPhotos/1000/7428219.jpg"
+
+  },
+  {
+    "title": "The Sower",
+    "artist": "Vincent Van Gogh",
+    "description": "an Gogh based this drawing on one of his own paintings: The Sower, which is now on display in the Kröller-Müller Museum (Otterlo, NL). All in all, he made more than 30 drawings and paintings on this theme. The sower symbolised the eternal cycle of existence. Sowing brings forth new life.For this drawing, Van Gogh worked with pens of different thicknesses. He used thick lines for the ploughed earth in the foreground and a thin, delicate pen for the sun.",
+    "image": "https://www.vangoghstudio.com//Files/6/102000/102147/ProductPhotos/Source/1667515697.jpg"
+
+
+
+  }
+]
