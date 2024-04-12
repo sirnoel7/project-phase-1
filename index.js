@@ -52,32 +52,55 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // this function shows artworks based on search
     function displayArtworks(artworks) {
+        // this clears the content of the artworkGallery element
         artworkGallery.innerHTML = '';
-        artworks.forEach(artwork => {
+    
+        // this iterate overs each artwork in the artworks array
+        artworks.forEach(function(artwork) {
+            //this  creates a new div element for each artwork
             const div = document.createElement('div');
+            
+            //this adds the 'artwork' class to the div element
             div.classList.add('artwork');
             
+            // this creates an img element for the artwork
             const img = document.createElement('img');
+            
+            //this adds the 'art' class to the img element
             img.classList.add('art');
+            
+            //this sets the src attribute of the img element to the artwork's image URL
             img.src = artwork.image;
+            
+            //this sets the alt attribute of the img element to the artwork's title
             img.alt = artwork.title;
             
+            //this creates a h3 element for the artwork's title
             const h3 = document.createElement('h3');
+            
+            //this sets the text content of the h3 element to the artwork's title
             h3.textContent = artwork.title;
             
+            //this creates a p(paragraph) element for the artist information
             const artistParagraph = document.createElement('p');
-            artistParagraph.textContent = `By ${artwork.artist}`;
             
+            // this sets the text content of the artist paragraph to include the artist's name
+            artistParagraph.textContent = 'By ' + artwork.artist;
+            
+            //this creates a p(paragraph) element for the artwork's description
             const descriptionParagraph = document.createElement('p');
+            
+            //this sets the text content of the description paragraph to the artwork's description
             descriptionParagraph.textContent = artwork.description;
             
+            //this code appends the img, h3, artistParagraph, and descriptionParagraph elements to the div element
             div.appendChild(img);
             div.appendChild(h3);
             div.appendChild(artistParagraph);
             div.appendChild(descriptionParagraph);
             
+            //this appends(basically adds it to the end of) the div element to the artworkGallery element
             artworkGallery.appendChild(div);
         });
     }
-    
 });
