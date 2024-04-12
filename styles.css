@@ -26,7 +26,7 @@ body, html {
     background-color: palegoldenrod;
     padding: 20px;
     box-sizing: border-box;
-    height: 890px;
+    height: 2400px;
 }
 
 .content {
@@ -105,4 +105,39 @@ nav ul li a:hover {
 
 .hidden {
     display: none;
+}
+
+#vangogh1 {
+    width: 445px;
+    height: 300px;
+}
+
+#vangogh3{
+    width: 445px;
+    height: 300px;
+}
+
+#caravaggio1{
+    width: 445px;
+    height: 300px;
+}
+
+#caravaggio12{
+    width: 445px;
+    height: 295px;
+}
+
+#vangogh2 {
+    width: 445px;
+    height: 300px;
+}
+
+#caravaggio6 {
+    width: 445px;
+    height: 280px;
+}
+
+#caravaggio7 {
+    width: 445px;
+    height: 280px;
 }
